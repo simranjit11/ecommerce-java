@@ -1,4 +1,4 @@
-# Order ECommerce SpringBoot Kotlin App
+# Order ECommerce SpringBoot Java App
 
 This service interacts with postgresDB to perform CRUD ops for order data
 
